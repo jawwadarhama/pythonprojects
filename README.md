@@ -1,2 +1,1 @@
-Personal Python Projects 
-- Arhama J
+Personal Python Projects by Arhama J
